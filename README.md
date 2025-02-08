@@ -66,7 +66,7 @@ npm run dev
 ### **Project Demo**  
 
 #### **Video**  
-![Video Demonstration](https://drive.google.com/drive/folders/1djB7tIZ_NvFtClrKbKxUhTaQmWmGdYlR?usp=sharing)
+![Video Demonstration](https://drive.google.com/file/d/11KJoDLBgdKrxl9VD86RaQ1SY0d7q3_bv/view?usp=sharing)
 *Demonstrates real-time emergency detection and alert system in action*  
 
 
