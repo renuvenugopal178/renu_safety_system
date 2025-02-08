@@ -5,7 +5,7 @@
 ### **Team Name**: **Renuvenugopal'team**  
 
 ### **Team Members**  
-- **Renu Venugopal-government engineering college kozhikode 
+- **Renu Venugopal-government engineering college kozhikode **
 -  
 
 ### **Hosted Project Link**  
@@ -33,7 +33,6 @@ Our system **constantly listens** for emergency keywords and **instantly alerts*
 #### **For Hardware:**  
 - 🚫 No additional hardware required – works on any **laptop/PC** with a **microphone**  
 
-### **Implementation**  
  
 
 ##### **Installation**  
@@ -53,13 +52,13 @@ npm run dev
 ## **Project Documentation**  
 
 ### **Screenshots**  
-![UI](Add Screenshot 1 here)  
+![https://github.com/renuvenugopal178/renu_safety_system/blob/main/Screenshot%202025-02-08%20173822.png]  
 *Home screen of the AI Safety Alert system*  
 
-![Listening Mode](Add Screenshot 2 here)  
+![https://github.com/renuvenugopal178/renu_safety_system/blob/main/Screenshot%202025-02-08%20173921.png]
 *Listening for emergency trigger words*  
 
-![Alert Triggered](Add Screenshot 3 here)  
+![https://github.com/renuvenugopal178/renu_safety_system/blob/main/Screenshot%202025-02-08%20173934.png]
 *Email alert and notification triggered upon detecting an emergency word*  
 
 ---
@@ -67,7 +66,7 @@ npm run dev
 ### **Project Demo**  
 
 #### **Video**  
-[Add your demo video link here]  
+[https://github.com/renuvenugopal178/renu_safety_system/blob/main/Screen%20Recording%202025-02-08%20174115.mp4]  
 *Demonstrates real-time emergency detection and alert system in action*  
 
 
@@ -80,7 +79,3 @@ npm run dev
 ---
 
 _Made with ❤️ at TinkerHub_ 🚀  
-
----
-
-Let me know if you need any modifications! 🚀
