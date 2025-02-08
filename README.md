@@ -52,13 +52,13 @@ npm run dev
 ## **Project Documentation**  
 
 ### **Screenshots**  
-![https://github.com/renuvenugopal178/renu_safety_system/blob/main/Screenshot%202025-02-08%20173822.png]  
+!![Screenshot 1](https://github.com/renuvenugopal178/renu_safety_system/blob/main/Screenshot%202025-02-08%20173822.png)
 *Home screen of the AI Safety Alert system*  
 
-![https://github.com/renuvenugopal178/renu_safety_system/blob/main/Screenshot%202025-02-08%20173921.png]
+!![Screenshot 1](https://github.com/renuvenugopal178/renu_safety_system/blob/main/Screenshot%202025-02-08%20173921.png)
 *Listening for emergency trigger words*  
 
-![https://github.com/renuvenugopal178/renu_safety_system/blob/main/Screenshot%202025-02-08%20173934.png]
+!![Screenshot 1](https://github.com/renuvenugopal178/renu_safety_system/blob/main/Screenshot%202025-02-08%20173934.png)
 *Email alert and notification triggered upon detecting an emergency word*  
 
 ---
@@ -66,7 +66,7 @@ npm run dev
 ### **Project Demo**  
 
 #### **Video**  
-[https://github.com/renuvenugopal178/renu_safety_system/blob/main/Screen%20Recording%202025-02-08%20174115.mp4]  
+![Video Demonstration](https://github.com/renuvenugopal178/renu_safety_system/blob/main/Screen%20Recording%202025-02-08%20174115.mp4)
 *Demonstrates real-time emergency detection and alert system in action*  
 
 
