@@ -37,7 +37,7 @@ Our system **constantly listens** for emergency keywords and **instantly alerts*
 
 ##### **Installation**  
 bash
-git clone https://github.com/yourusername/ai-safety-alert.git  
+git clone 
 cd ai-safety-alert  
 npm install
 
