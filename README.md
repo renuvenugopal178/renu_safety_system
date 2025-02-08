@@ -5,7 +5,7 @@
 ### **Team Name**: **Renuvenugopal'team**  
 
 ### **Team Members**  
-- **Renu Venugopal-government engineering college kozhikode **
+Renu Venugopal-government engineering college kozhikode
 -  
 
 ### **Hosted Project Link**  
