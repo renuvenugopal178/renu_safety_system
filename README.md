@@ -66,7 +66,7 @@ npm run dev
 ### **Project Demo**  
 
 #### **Video**  
-![Video Demonstration](https://github.com/renuvenugopal178/renu_safety_system/blob/main/Screen%20Recording%202025-02-08%20174115.mp4)
+![Video Demonstration](https://drive.google.com/drive/folders/1djB7tIZ_NvFtClrKbKxUhTaQmWmGdYlR?usp=sharing)
 *Demonstrates real-time emergency detection and alert system in action*  
 
 
