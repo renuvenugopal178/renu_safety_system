@@ -1,27 +1,26 @@
-# **AI Personal Safety Alert System** 🎯
+# **AI Personal Safety Alert System** 🎯  
 
-## **Basic Details**
+## **Basic Details**  
 
-### **Team Name**: **Renuvenugopal's team**
+### **Team Name**: **Renuvenugopal'team**  
 
-### **Team Members**
-- **Renu Venugopal** - Government Engineering College Kozhikode  
+### **Team Members**  
+- **Renu Venugopal-government engineering college kozhikode **
+-  
 
 ### **Hosted Project Link**  
-[renu-safety-system.vercel.app](https://renu-safety-system.vercel.app)
+ renu-safety-system.vercel.app
 
 ### **Project Description**  
-The **AI Personal Safety Alert System** is a **voice-activated** emergency alert application that listens for predefined trigger words like _"help," "danger,"_ or _"emergency."_ When detected, it sends an **email alert** and triggers a **desktop notification** to notify emergency contacts.
+AI Personal Safety Alert System is a **voice-activated** emergency alert application that listens for predefined trigger words like _"help," "danger,"_ or _"emergency."_ When detected, it sends an **email alert** and triggers a **desktop notification** to notify emergency contacts.  
 
 ### **The Problem Statement**  
-What if you're in a dangerous situation where you can’t reach your phone or press an SOS button? **Calling for help should be effortless, even in an emergency!**
+What if you're in a dangerous situation where you can’t reach your phone or press an SOS button? **Calling for help should be effortless, even in an emergency!**  
 
 ### **The Solution**  
-Our system **constantly listens** for emergency keywords and **instantly alerts** your contacts via **email and desktop notifications**, ensuring help reaches you **without any manual effort!**
+Our system **constantly listens** for emergency keywords and **instantly alerts** your contacts via **email and desktop notifications**, ensuring help reaches you **without any manual effort!**  
 
----
-
-## **Technical Details**
+## **Technical Details**  
 
 ### **Technologies/Components Used**  
 
@@ -34,47 +33,49 @@ Our system **constantly listens** for emergency keywords and **instantly alerts*
 #### **For Hardware:**  
 - 🚫 No additional hardware required – works on any **laptop/PC** with a **microphone**  
 
+ 
+
+##### **Installation**  
+bash
+git clone https://github.com/yourusername/ai-safety-alert.git  
+cd ai-safety-alert  
+npm install
+
+
+##### **Run the Application**  
+bash
+npm run dev
+
+
 ---
 
-### **Installation**  
-Clone the repository:
-```bash
-git clone https://github.com/yourusername/ai-safety-alert.git
-Navigate to the project directory:
+## **Project Documentation**  
 
-bash
-Copy
-Edit
-cd ai-safety-alert
-Install dependencies:
+### **Screenshots**  
+![https://github.com/renuvenugopal178/renu_safety_system/blob/main/Screenshot%202025-02-08%20173822.png]  
+*Home screen of the AI Safety Alert system*  
 
-bash
-Copy
-Edit
-npm install
-Run the Application
-Start the development server:
+![https://github.com/renuvenugopal178/renu_safety_system/blob/main/Screenshot%202025-02-08%20173921.png]
+*Listening for emergency trigger words*  
 
-bash
-Copy
-Edit
-npm run dev
-Project Documentation
-Screenshots
-Home Screen of the AI Safety Alert System
+![https://github.com/renuvenugopal178/renu_safety_system/blob/main/Screenshot%202025-02-08%20173934.png]
+*Email alert and notification triggered upon detecting an emergency word*  
 
-Listening for Emergency Trigger Words
+---
 
-Email Alert and Notification Triggered upon Detecting an Emergency Word
+### **Project Demo**  
 
-Project Demo
-Video
-Watch the demo video to see the system in action:
-AI Personal Safety Alert System Demo
-Demonstrates real-time emergency detection and alert system in action
+#### **Video**  
+[https://github.com/renuvenugopal178/renu_safety_system/blob/main/Screen%20Recording%202025-02-08%20174115.mp4]  
+*Demonstrates real-time emergency detection and alert system in action*  
 
-Team Contributions
-Renu Venugopal: Frontend Development, UI Design
-Team Member 2: Speech Recognition, Notification System
-Team Member 3: Email Alert System, Deployment
-Made with ❤️ at TinkerHub 🚀
+
+
+## **Team Contributions**  
+-Renu Venugopal: Frontend Development, UI Design  
+- : Speech Recognition, Notification System  
+- : Email Alert System, Deployment  
+
+---
+
+_Made with ❤️ at TinkerHub_ 🚀  
